@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/dashboard"
+
+
+        android:icon="@drawable/dashboard"
+        android:title="Mohan" />
+    <item
+        android:id="@+id/events"
+
+
+        android:icon="@drawable/event"
+        android:title="Kishore" />
+    <item
+        android:id="@+id/search"
+
+
+        android:icon="@drawable/search"
+        android:title="Murali" />
+    <item
+        android:id="@+id/settings"
+
+
+        android:icon="@drawable/settings"
+        android:title="Rathnakar" />
+    <item
+        android:id="@+id/activities"
+
+
+        android:icon="@drawable/activity"
+        android:title="Rohit" />
+    <item
+        android:id="@+id/logout"
+
+
+        android:icon="@drawable/logout"
+        android:title="Sai" />
+</menu>
